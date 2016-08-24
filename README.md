@@ -24,6 +24,6 @@ More on this later.
 
 For any questions, problems, contributions of if you just want to say hi feel free to shoot any of the contributors an email:
 
-* [Tejumade Afonja](<tmafonja1@gmail.com>)
+* [Tejumade Afonja](<a href="mailto:someone@example.com>)
 * [Michael Okuboyejo](<mykelokuboyejo@gmail.com>)
 
