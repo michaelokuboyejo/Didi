@@ -22,8 +22,5 @@ More on this later.
 #QUESTIONS
 
 
-For any questions, problems, contributions of if you just want to say hi feel free to shoot any of the contributors an email:
-
-* [Tejumade Afonja](<a href="mailto:someone@example.com>)
-* [Michael Okuboyejo](<mykelokuboyejo@gmail.com>)
+For any questions, problems, contributions of if you just want to say hi feel free to shoot any of the contributors an email
 
