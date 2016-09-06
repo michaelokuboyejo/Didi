@@ -1,5 +1,7 @@
 Didi
 ====
+[![Build Status](https://travis-ci.org/michaelokuboyejo/Didi.svg?branch=master)](https://travis-ci.org/michaelokuboyejo/Didi)
+
 This is a Facebook Messenger Chat Bot that you can message with simple home automation tasks.
 
 ##SETUP
