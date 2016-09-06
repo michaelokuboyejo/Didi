@@ -2,5 +2,7 @@ language: python
 python:
   - "2.7"
 
-#command to setup project by installing dependencies
+# command to setup project by installing dependencies
 install: "pip install -r requirements.txt"
+# command to run tests
+script: "python didi_chat_bot.py"
